@@ -1,2 +1,2 @@
-# Portfolio
-A simple porfolio website using tailwind CSS
+# My experience during building this Portfolio
+While building this portfolio, I really enjoyed experimenting with Tailwind CSS gradients and hover effects. I wanted something that felt light, playful, yet professional — like a digital diary showcasing my projects. It was fun balancing colors, aligning things perfectly (especially in the Projects section!), and making sure everything looks pretty on both desktop and mobile. Honestly, Tailwind made it super easy to design things without writing extra CSS. Feels great seeing all my work in one cozy, gradient-wrapped website.
